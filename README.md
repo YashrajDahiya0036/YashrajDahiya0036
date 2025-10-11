@@ -58,27 +58,23 @@
 
 </div>
 
-*Replace these GIFs with your own Lottie exports to match your portfolio style.*
 
 ---
 
 ## 📊 GitHub Stats
 
-![Yashraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Yashraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashrajdahiya0036&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajdahiya0036&layout=compact&theme=radical)
 
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashraj-dahiya-2b2033256)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300C4CC?style=for-the-badge&logo=react)](YOUR_LINK_HERE)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](YOUR_LINK_HERE)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:yashrajdahiya0036@gmail.com)
 
 ---
 
-## ✨ Fun / Animations
-![Next.js Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
-*Replace with any GIF/Lottie of your choice.*
 
 ## 📈 Activity Graph
-[![Yashraj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yashraj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashrajdahiya0036&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)

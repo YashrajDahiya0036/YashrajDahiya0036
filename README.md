@@ -37,29 +37,6 @@
 
 ---
 
-## 🏗️ My Skills (Animated)
-
-<div align="center">
-
-<!-- Frontend -->
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="HTML Animation" width="80" height="80" title="HTML" />
-<img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" alt="CSS Animation" width="80" height="80" title="CSS" />
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="JavaScript Animation" width="80" height="80" title="JavaScript" />
-
-<!-- React / Next.js -->
-<img src="https://media.giphy.com/media/xT0BKqhdlKCxCNsVTq/giphy.gif" alt="React Animation" width="80" height="80" title="React" />
-<img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Next.js Animation" width="80" height="80" title="Next.js" />
-<img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" alt="Tailwind Animation" width="80" height="80" title="Tailwind CSS" />
-
-<!-- Backend -->
-<img src="https://media.giphy.com/media/3orieVVr5o4B3ONZCw/giphy.gif" alt="Node.js Animation" width="80" height="80" title="Node.js" />
-<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Express.js Animation" width="80" height="80" title="Express.js" />
-<img src="https://media.giphy.com/media/l0HlRmYmk2t0BqFA0/giphy.gif" alt="MongoDB Animation" width="80" height="80" title="MongoDB" />
-
-</div>
-
-
----
 
 ## 📊 GitHub Stats
 
